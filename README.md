@@ -1,7 +1,7 @@
 # genpassword
 Password Generator
 
-**Problem: **
+**Problem:**
 
 The increase in internet services and logins - there is an ever increasing number of passwords that a user has to create. As it is hard to remember complex passwords, users create passwords that are too simple and can be easily hacked.
 
